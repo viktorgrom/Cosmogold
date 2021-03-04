@@ -14,12 +14,7 @@
         android:layout_width="wrap_content"
         android:background="@drawable/start_im_btn"
         android:onClick="startGame"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="SDFGHJJJJJHHGG"
-        android:textColor="@color/white"
-        android:textSize="40sp"/>
+
 
 
 
